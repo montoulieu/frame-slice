@@ -61,7 +61,7 @@ Using the provided `test.mp4` video in the `/video` folder, you can test the uti
 - For interval mode:
 
   ```
-  python frame_slice.py interval video/test.mp4 output/test 10
+  python frame_slice.py interval video/test.mp4 output/test 1000
   ```
 
 ## License
