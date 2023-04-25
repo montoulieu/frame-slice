@@ -63,7 +63,3 @@ Using the provided `test.mp4` video in the `/video` folder, you can test the uti
   ```
   python frame_slice.py interval video/test.mp4 output/test 1000
   ```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
